@@ -1,2 +1,2 @@
 # tela_login
-Projetinho de tela de login (html e php) alimentando um db postgresql. 
+Projetinho de tela de login com php alimentando um DB Postgres no Heroku. 
